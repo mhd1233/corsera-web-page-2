@@ -1,0 +1,166 @@
+a{
+    text-decoration: none;
+   
+}
+#bot{
+    color: blanchedalmond;
+    
+}
+#br{
+    font-family: 'Oxygen', sans-serif;
+    color: white;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+   
+    
+    line-height: .75;
+    text-shadow: -7px 5px 6px #000;
+    padding-bottom: 20px;
+    padding-top: 20px;
+   
+   
+   
+}.navbar-collapse{
+    text-align: center;
+   
+}#text-nav{
+    font-family: 'Oxygen', sans-serif;
+    color: white;
+    font-size: 1em;
+    text-transform: uppercase;
+    
+   
+    margin-bottom: 0;
+    line-height: .75;
+    text-shadow: -7px 5px 6px #000;
+    margin-bottom: 10px;
+}
+#text-nav:hover{
+    background-color: darkgray;
+}#h22,#h23,#h24{
+    font-family: 'Oxygen', sans-serif;
+    color:black;
+    font-size: 1.5em;
+    font-weight: bold;
+    
+    margin-top: 20px;
+    text-align: center;
+   
+  
+    line-height: .75;
+    padding: 5px;
+}#text-con{
+    padding: 30px;
+
+    background-color: #555c61;
+    margin-top: 30px;
+    border:#fff 15px solid;
+    position: relative;
+    
+}#text-con p{
+    font-size: 18px;
+    text-align: center;
+    font-style: italic;
+   
+}#a22{
+    font-family: 'Oxygen', sans-serif;
+    color: white;
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: bold;
+   
+    
+    line-height: .75;
+    text-shadow: -7px 5px 6px #000;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+#a22:hover{
+    text-decoration: none;
+   margin-top: 10px;
+}
+#a23{
+    font-family: 'Oxygen', sans-serif;
+    color:black;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+   
+    
+  
+  
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+#a23:hover{
+    text-decoration: none;
+   
+}
+footer{
+    padding-top: 40px;
+    margin-top: 70px;
+}
+
+@media (min-width:768px) and (max-width:991px){
+    #container{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    #a23{
+        font-family: 'Oxygen', sans-serif;
+        color:black;
+        font-size: 1em;
+        text-transform: uppercase;
+        font-weight: bold;
+        text-align: center;
+       
+        
+      
+      
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+    #a23:hover{
+        text-decoration: none;
+       
+    }
+    footer{
+        padding-top: 40px;
+        margin-top: 70px;
+        margin-bottom: 0;
+    }
+  
+ 
+}
+@media  (max-width:767px){
+   .container{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    #a23{
+        font-family: 'Oxygen', sans-serif;
+        color:black;
+        font-size: 1em;
+        text-transform: uppercase;
+        font-weight: bold;
+        text-align: center;
+       
+        
+      
+      
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+    #a23:hover{
+        text-decoration: none;
+       
+    }
+    footer{
+        padding-top: 40px;
+        margin-top: 70px;
+        margin-bottom: 0;
+    }
+ 
+}
